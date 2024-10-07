@@ -11,6 +11,8 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        givelinkPurple: "#774af6",
+        givelinkOrange: "#FF5757",
       },
     },
   },
